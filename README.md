@@ -26,6 +26,7 @@ I started with https://github.com/linusyang92/macOS-ThinkPad-T480s and realised 
 - probably many more that I do not know of yet ...
 
 ## Related posts
+https://www.hackintosh-forum.de/forum/thread/43618-lenovo-t480s/?postID=518225#post518225
 https://www.tonymacx86.com/threads/t480s-having-problems-updating.280904/page-2
 https://www.hackintosh-forum.de/forum/thread/40836-kurzanleitung-lenovo-thinkpad-t480s/?postID=517939#post517939
 
