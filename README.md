@@ -31,3 +31,4 @@ https://www.hackintosh-forum.de/forum/thread/40836-kurzanleitung-lenovo-thinkpad
 
 ## Credits
 https://github.com/linusyang92/macOS-ThinkPad-T480s
+https://www.tonymacx86.com/threads/guide-booting-the-os-x-installer-on-laptops-with-clover.148093
