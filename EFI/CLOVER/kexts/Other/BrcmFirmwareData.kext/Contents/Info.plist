@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>18E226</string>
+	<string>18F132</string>
 	<key>CFBundleExecutable</key>
 	<string>BrcmFirmwareData</string>
 	<key>CFBundleIdentifier</key>
@@ -49,7 +49,7 @@
 			<key>IOMatchCategory</key>
 			<string>BrcmFirmwareStore</string>
 			<key>IOProviderClass</key>
-			<string>disabled_IOResources</string>
+			<string>IOResources</string>
 		</dict>
 	</dict>
 	<key>OSBundleCompatibleVersion</key>
