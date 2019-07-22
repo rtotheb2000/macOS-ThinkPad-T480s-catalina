@@ -856,7 +856,7 @@
 			<key>IOClass</key>
 			<string>ApplePS2SmartTouchpad</string>
 			<key>IOProbeScore</key>
-			<integer>3000</integer>
+			<integer>5000</integer>
 			<key>IOProviderClass</key>
 			<string>ApplePS2MouseDevice</string>
 			<key>Manufacturer</key>
@@ -1172,17 +1172,17 @@
 						<key>2FHorizontalScroll</key>
 						<true/>
 						<key>2FScrollAccelMode</key>
-						<integer>5</integer>
+						<integer>0</integer>
 						<key>2FVerticalScroll</key>
 						<true/>
 						<key>Auto2FingScroll</key>
 						<false/>
 						<key>Continuous2FingScroll</key>
-						<false/>
+						<true/>
 						<key>Inertial2FingScroll</key>
-						<false/>
+						<true/>
 						<key>ScrollSmoothSamples</key>
-						<integer>20</integer>
+						<integer>3</integer>
 						<key>Sling2FingScroll</key>
 						<false/>
 					</dict>
@@ -1224,7 +1224,7 @@
 						<key>EdgeScrollAccelMode</key>
 						<integer>0</integer>
 						<key>EdgeScrolling</key>
-						<false/>
+						<true/>
 						<key>EdgeVScrollAdaptArea</key>
 						<integer>4</integer>
 						<key>EdgeVScrollArea</key>
@@ -1302,7 +1302,7 @@
 					<key>3FingerSwipeRightAction</key>
 					<integer>12</integer>
 					<key>3FingerSwipeUpAction</key>
-					<integer>0</integer>
+					<integer>3</integer>
 					<key>3FingerSwipes</key>
 					<true/>
 					<key>4FingerSwipeDownAction</key>
@@ -1332,7 +1332,7 @@
 					<key>EdgeSwipeSenseVArea</key>
 					<integer>5</integer>
 					<key>EdgeSwipeTop</key>
-					<integer>0</integer>
+					<integer>10</integer>
 					<key>EdgeSwipes</key>
 					<true/>
 					<key>EdgeSwipes2Ways</key>
@@ -1370,9 +1370,9 @@
 					<key>1FingerTapAction</key>
 					<integer>35</integer>
 					<key>2FingersTapAction</key>
-					<integer>34</integer>
-					<key>3FingersTapAction</key>
 					<integer>33</integer>
+					<key>3FingersTapAction</key>
+					<integer>34</integer>
 					<key>4FingersTapAction</key>
 					<integer>4</integer>
 					<key>5FingersTapAction</key>
