@@ -17,7 +17,7 @@ I started with https://github.com/linusyang92/macOS-ThinkPad-T480s and realised 
 - Installation of catalina beta using clover v2.4k r4972
 - WQHD resolution
 - WiFi (Dell DW1830)
-- By plugging in a Apple Trackpad 2 via USB I was able to get into the trackpad preference menu (even after unplugging it afterwards)
+- By plugging in an Apple Trackpad 2 via USB I was able to get into the trackpad preference menu (even after unplugging it afterwards)
 
 ## Issues
 
