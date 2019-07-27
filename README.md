@@ -14,7 +14,6 @@ I started with https://github.com/linusyang92/macOS-ThinkPad-T480s and realised 
 
 ## Working at this point
 
-- Installation of catalina beta using clover v2.4k r4972
 - WQHD resolution
 - WiFi (Dell DW1830)
 - Bluetooth (Dell DW1830)
