@@ -22,7 +22,8 @@ I started with https://github.com/linusyang92/macOS-ThinkPad-T480s and realised 
 
 ## Issues
 
-- Plugging in an external display via USB-C results in reboot
+- Ethernet (wired)
+- Plugging in an external display via USB-C results in reboot (might be fixed, not yet tested ...)
 - Sound is not working atm
 - Trackpad pref can not be accessed in system Preferences ("Could not load Trackpad preference pane.")
 - probably many more that I do not know of yet ...
