@@ -17,13 +17,13 @@ I started with https://github.com/linusyang92/macOS-ThinkPad-T480s and realised 
 - Installation of catalina beta using clover v2.4k r4972
 - WQHD resolution
 - WiFi (Dell DW1830)
+- Bluetooth (Dell DW1830)
 - By plugging in an Apple Trackpad 2 via USB I was able to get into the trackpad preference menu (even after unplugging it afterwards). This is only a temporary fix as it is reverted after a restart.
 
 ## Issues
 
 - Plugging in an external display via USB-C results in reboot
 - Sound is not working atm
-- Bluetooth not working atm
 - Trackpad pref can not be accessed in system Preferences ("Could not load Trackpad preference pane.")
 - probably many more that I do not know of yet ...
 
