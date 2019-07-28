@@ -34,19 +34,19 @@ I started with https://github.com/linusyang92/macOS-ThinkPad-T480s and realised 
 | [AirportBrcmFixup](https://github.com/acidanthera/AirportBrcmFixup) | 1.1.9 | Various patches for Broadcom Airport Wi-Fi cards |
 | [AppleALC](https://github.com/acidanthera/AppleALC) | 1.3.9 | Native macOS HD audio for not officially supported codecs |
 | [ApplePS2SmartTouchPad](https://github.com/linusyang92/macOS-ThinkPad-T480s) | 4.6.8 | Touchpad support |
-| [BrcmBluetoothInjector] | 2.2.10 | - |
-| [BrcmFirmwareData] | 2.2.10 | - |
-| [BrcmPatchRAM2] | 2.2.10 | - |
+| [BrcmBluetoothInjector](https://github.com/RehabMan/OS-X-BrcmPatchRAM) | 2.2.10 | - |
+| [BrcmFirmwareData](https://github.com/RehabMan/OS-X-BrcmPatchRAM) | 2.2.10 | - |
+| [BrcmPatchRAM2](https://github.com/RehabMan/OS-X-BrcmPatchRAM) | 2.2.10 | - |
 | [BT4LEContinuityFixup](https://github.com/acidanthera/BT4LEContinuityFixup) | 1.1.4 | Enable BT4LE-Handoff-Hotspot features |
-| [CodecCommander] | 2.7.1 | - |
+| [CodecCommander](https://bitbucket.org/RehabMan/os-x-eapd-codec-commander/src/master/) | 2.7.1 | - |
 | [HibernationFixup](https://github.com/acidanthera/HibernationFixup) | 1.2.6 | Enable 3 & 25 mode hibernation on certain hardware |
-| [Lilu] | 1.3.8 | - |
+| [Lilu](https://github.com/acidanthera/Lilu/releases) | 1.3.8 | An open source kernel extension bringing a platform for arbitrary kext, library, and program patching throughout the system for macOS |
 | [NightShiftUnlocker]( https://github.com/Austere-J/NightShiftUnlocker) | 2.2.1 | Enables Night Shift on all the models |
 | [NoTouchID]( https://github.com/al3xtjames/NoTouchID) | 1.0.2 | Disables Touch ID checks causing hangs |
-| [RealtekRTL8111] | 2.2.2 | - |
-| [SMCBatteryManager] | 1.0 | - |
-| [SMCProcessor] | 1.0.7 | - |
-| [SMCSuperIO] | 1.0.4 | - |
+| [RealtekRTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X) | 2.2.2 | OS X open source driver for the Realtek RTL8111/8168 family |
+| [SMCBatteryManager](https://www.hackintosh-forum.de/attachment/105714-e590-zip/) | 1.0 | - |
+| [SMCProcessor](https://www.hackintosh-forum.de/attachment/105714-e590-zip/) | 1.0.7 | - |
+| [SMCSuperIO](https://www.hackintosh-forum.de/attachment/105714-e590-zip/) | 1.0.4 | - |
 | [SystemProfilerMemoryFixup]( https://github.com/Goldfish64/SystemProfilerMemoryFixup) | 1.0.0 | Show memory tab on MacBook models with soldered RAM |
 | [USBInjectAll]( https://bitbucket.org/RehabMan/os-x-usb-inject-all/downloads/) | 0.7.1 | - |
 | [VirtualSMC]( https://github.com/acidanthera/VirtualSMC/releases) | 1.0.7 | Advanced SMC emulation |
