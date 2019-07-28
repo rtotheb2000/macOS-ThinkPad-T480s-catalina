@@ -41,10 +41,11 @@ I started with https://github.com/linusyang92/macOS-ThinkPad-T480s and realised 
 | [CodecCommander](https://bitbucket.org/RehabMan/os-x-eapd-codec-commander/src/master/) | 2.7.1 | - |
 | [CPUFriend](https://github.com/acidanthera/CPUFriend) | 1.1.9 | A Lilu plug-in for dynamic power management data injection and prevention of AppleIntelMCEReporter. |
 | [CPUFriendDataProvider](https://github.com/acidanthera/CPUFriend) | 1.0.0 | - |
-| [HibernationFixup](https://github.com/acidanthera/HibernationFixup) | 1.2.6 | Enable 3 & 25 mode hibernation on certain hardware |
+| [HibernationFixup](https://github.com/acidanthera/HibernationFixup) | 1.2.7 | Enable 3 & 25 mode hibernation on certain hardware |
 | [Lilu](https://github.com/acidanthera/Lilu/releases) | 1.3.8 | An open source kernel extension bringing a platform for arbitrary kext, library, and program patching throughout the system for macOS |
 | [NightShiftUnlocker]( https://github.com/Austere-J/NightShiftUnlocker) | 2.2.1 | Enables Night Shift on all the models |
 | [NoTouchID]( https://github.com/al3xtjames/NoTouchID) | 1.0.2 | Disables Touch ID checks causing hangs |
+| [NullEthernet](https://github.com/RehabMan/OS-X-Null-Ethernet) | 1.0.6 | Enables Mac App Store access even if you don’t have a built-in Ethernet port with supporting drivers |
 | [RealtekRTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X) | 2.2.2 | OS X open source driver for the Realtek RTL8111/8168 family |
 | [SMCBatteryManager](https://www.hackintosh-forum.de/attachment/105714-e590-zip/) | 1.0 | - |
 | [SMCProcessor](https://www.hackintosh-forum.de/attachment/105714-e590-zip/) | 1.0.7 | - |
