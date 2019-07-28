@@ -39,7 +39,7 @@ I started with https://github.com/linusyang92/macOS-ThinkPad-T480s and realised 
 | [BrcmPatchRAM2](https://github.com/RehabMan/OS-X-BrcmPatchRAM) | 2.2.10 | - |
 | [BT4LEContinuityFixup](https://github.com/acidanthera/BT4LEContinuityFixup) | 1.1.4 | Enable BT4LE-Handoff-Hotspot features |
 | [CodecCommander](https://bitbucket.org/RehabMan/os-x-eapd-codec-commander/src/master/) | 2.7.1 | - |
-| [CPUFriend](https://github.com/acidanthera/CPUFriend) | 1.1.9 | - |
+| [CPUFriend](https://github.com/acidanthera/CPUFriend) | 1.1.9 | A Lilu plug-in for dynamic power management data injection and prevention of AppleIntelMCEReporter, details can be found here. |
 | [CPUFriendDataProvider](https://github.com/acidanthera/CPUFriend) | 1.0.0 | - |
 | [HibernationFixup](https://github.com/acidanthera/HibernationFixup) | 1.2.6 | Enable 3 & 25 mode hibernation on certain hardware |
 | [Lilu](https://github.com/acidanthera/Lilu/releases) | 1.3.8 | An open source kernel extension bringing a platform for arbitrary kext, library, and program patching throughout the system for macOS |
