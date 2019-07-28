@@ -42,7 +42,7 @@ I started with https://github.com/linusyang92/macOS-ThinkPad-T480s and realised 
 | [CPUFriend](https://github.com/acidanthera/CPUFriend) | 1.1.9 | A Lilu plug-in for dynamic power management data injection and prevention of AppleIntelMCEReporter. |
 | [CPUFriendDataProvider](https://github.com/acidanthera/CPUFriend) | 1.0.0 | - |
 | [HibernationFixup](https://github.com/acidanthera/HibernationFixup) | 1.2.7 | Enable 3 & 25 mode hibernation on certain hardware |
-| [IntelMausiEthernet](https://github.com/Mieze/IntelMausiEthernet) | 2.5.0d0 | An open source kernel extension bringing a platform for arbitrary kext, library, and program patching throughout the system for macOS |
+| [IntelMausiEthernet](https://github.com/Mieze/IntelMausiEthernet) | 2.5.0d0 | OS X driver for Intel onboard LAN |
 | [Lilu](https://github.com/acidanthera/Lilu/releases) | 1.3.8 | An open source kernel extension bringing a platform for arbitrary kext, library, and program patching throughout the system for macOS |
 | [NightShiftUnlocker]( https://github.com/Austere-J/NightShiftUnlocker) | 2.2.1 | Enables Night Shift on all the models |
 | [NoTouchID]( https://github.com/al3xtjames/NoTouchID) | 1.0.2 | Disables Touch ID checks causing hangs |
