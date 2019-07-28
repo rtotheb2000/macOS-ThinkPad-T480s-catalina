@@ -49,10 +49,6 @@ I started with https://github.com/linusyang92/macOS-ThinkPad-T480s and realised 
 | [NoTouchID]( https://github.com/al3xtjames/NoTouchID) | 1.0.2 | Disables Touch ID checks causing hangs |
 | [NullEthernet](https://github.com/RehabMan/OS-X-Null-Ethernet) | 1.0.6 | Enables Mac App Store access even if you don’t have a built-in Ethernet port with supporting drivers |
 | [RealtekRTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X) | 2.2.2 | OS X open source driver for the Realtek RTL8111/8168 family |
-| [SMCBatteryManager](https://www.hackintosh-forum.de/attachment/105714-e590-zip/) | 1.0 | - |
-| [SMCProcessor](https://www.hackintosh-forum.de/attachment/105714-e590-zip/) | 1.0.7 | - |
-| [SMCSuperIO](https://www.hackintosh-forum.de/attachment/105714-e590-zip/) | 1.0.4 | - |
-| [SystemProfilerMemoryFixup]( https://github.com/Goldfish64/SystemProfilerMemoryFixup) | 1.0.0 | Show memory tab on MacBook models with soldered RAM |
 | [USBInjectAll]( https://bitbucket.org/RehabMan/os-x-usb-inject-all/downloads/) | 0.7.1 | - |
 | [VirtualSMC]( https://github.com/acidanthera/VirtualSMC/releases) | 1.0.7 | Advanced SMC emulation |
 | [WhateverGreen]( https://github.com/acidanthera/WhateverGreen/releases) | 1.3.1 | Various patches necessary for GPUs |
