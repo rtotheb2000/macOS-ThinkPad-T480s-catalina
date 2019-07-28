@@ -31,6 +31,7 @@ I started with https://github.com/linusyang92/macOS-ThinkPad-T480s and realised 
 ## List of kexts
 | kext  | version | short description |
 | ------------- | ------------- | ------------- |
+| [ACPIBatteryManager](https://github.com/linusyang92/macOS-ThinkPad-T480s) | 1.90.1 | Implements an Advanced Configuration and Power Interface (ACPI) based battery manager kernel extension (kext/driver) for non-Apple laptops running OS X |
 | [AirportBrcmFixup](https://github.com/acidanthera/AirportBrcmFixup) | 1.1.9 | Various patches for Broadcom Airport Wi-Fi cards |
 | [AppleALC](https://github.com/acidanthera/AppleALC) | 1.4.0 | Native macOS HD audio for not officially supported codecs |
 | [ApplePS2SmartTouchPad](https://github.com/linusyang92/macOS-ThinkPad-T480s) | 4.6.8 | Touchpad support |
@@ -48,7 +49,6 @@ I started with https://github.com/linusyang92/macOS-ThinkPad-T480s and realised 
 | [NoTouchID]( https://github.com/al3xtjames/NoTouchID) | 1.0.2 | Disables Touch ID checks causing hangs |
 | [NullEthernet](https://github.com/RehabMan/OS-X-Null-Ethernet) | 1.0.6 | Enables Mac App Store access even if you don’t have a built-in Ethernet port with supporting drivers |
 | [RealtekRTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X) | 2.2.2 | OS X open source driver for the Realtek RTL8111/8168 family |
-| [SATA-unsupported](https://github.com/RehabMan/hack-tools/tree/master/kexts) | 0.9.2 | - |
 | [SMCBatteryManager](https://www.hackintosh-forum.de/attachment/105714-e590-zip/) | 1.0 | - |
 | [SMCProcessor](https://www.hackintosh-forum.de/attachment/105714-e590-zip/) | 1.0.7 | - |
 | [SMCSuperIO](https://www.hackintosh-forum.de/attachment/105714-e590-zip/) | 1.0.4 | - |
