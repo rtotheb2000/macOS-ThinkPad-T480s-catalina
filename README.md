@@ -28,7 +28,15 @@ I started with https://github.com/linusyang92/macOS-ThinkPad-T480s and realised 
 - probably many more that I do not know of yet ...
 
 ## List of kexts
-- WhateverGreen v1.3.0 https://github.com/acidanthera/WhateverGreen/releases
+| kext  | version | short description | link |
+| ------------- | ------------- | ------------- | ------------- |
+| SMCBatteryManager  | 1.0 | - |  |
+| SMCProcessor  | 1.0.7 | - |  |
+| SMCSuperIO  | 1.0.4 | - |  |
+| SystemProfilerMemoryFixup  | 1.0.0 | Show memory tab on MacBook models with soldered RAM | https://github.com/Goldfish64/SystemProfilerMemoryFixup |
+| USBInjectAll  | 0.7.1 | - | https://bitbucket.org/RehabMan/os-x-usb-inject-all/downloads/ |
+| VirtualSMC  | 1.0.7 | Advanced SMC emulation | https://github.com/acidanthera/VirtualSMC/releases |
+| WhateverGreen  | 1.3.0 | Various patches necessary for GPUs | https://github.com/acidanthera/WhateverGreen/releases |
 
 ## Related posts
 - https://www.hackintosh-forum.de/forum/thread/43618-lenovo-t480s/?postID=518225#post518225
