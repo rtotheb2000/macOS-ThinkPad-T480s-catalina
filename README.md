@@ -54,7 +54,7 @@ I started with https://github.com/linusyang92/macOS-ThinkPad-T480s and realised 
 | [SystemProfilerMemoryFixup]( https://github.com/Goldfish64/SystemProfilerMemoryFixup) | 1.0.0 | Show memory tab on MacBook models with soldered RAM |
 | [USBInjectAll]( https://bitbucket.org/RehabMan/os-x-usb-inject-all/downloads/) | 0.7.1 | - |
 | [VirtualSMC]( https://github.com/acidanthera/VirtualSMC/releases) | 1.0.7 | Advanced SMC emulation |
-| [WhateverGreen]( https://github.com/acidanthera/WhateverGreen/releases) | 1.3.0 | Various patches necessary for GPUs |
+| [WhateverGreen]( https://github.com/acidanthera/WhateverGreen/releases) | 1.3.1 | Various patches necessary for GPUs |
 
 ## Related posts
 - https://www.hackintosh-forum.de/forum/thread/43618-lenovo-t480s/?postID=518225#post518225
