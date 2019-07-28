@@ -32,7 +32,7 @@ I started with https://github.com/linusyang92/macOS-ThinkPad-T480s and realised 
 | kext  | version | short description |
 | ------------- | ------------- | ------------- |
 | [AirportBrcmFixup](https://github.com/acidanthera/AirportBrcmFixup) | 1.1.9 | Various patches for Broadcom Airport Wi-Fi cards |
-| [AppleALC](https://github.com/acidanthera/AppleALC) | 1.3.9 | Native macOS HD audio for not officially supported codecs |
+| [AppleALC](https://github.com/acidanthera/AppleALC) | 1.4.0 | Native macOS HD audio for not officially supported codecs |
 | [ApplePS2SmartTouchPad](https://github.com/linusyang92/macOS-ThinkPad-T480s) | 4.6.8 | Touchpad support |
 | [BrcmBluetoothInjector](https://github.com/RehabMan/OS-X-BrcmPatchRAM) | 2.2.10 | - |
 | [BrcmFirmwareData](https://github.com/RehabMan/OS-X-BrcmPatchRAM) | 2.2.10 | - |
