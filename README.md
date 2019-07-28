@@ -27,6 +27,9 @@ I started with https://github.com/linusyang92/macOS-ThinkPad-T480s and realised 
 - Trackpad pref can not be accessed in system Preferences ("Could not load Trackpad preference pane.")
 - probably many more that I do not know of yet ...
 
+## List of kexts
+- WhateverGreen v1.3.0 https://github.com/acidanthera/WhateverGreen/releases
+
 ## Related posts
 - https://www.hackintosh-forum.de/forum/thread/43618-lenovo-t480s/?postID=518225#post518225
 - https://www.tonymacx86.com/threads/t480s-having-problems-updating.280904/page-2
