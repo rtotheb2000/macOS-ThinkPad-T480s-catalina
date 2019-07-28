@@ -11,6 +11,7 @@ I started with https://github.com/linusyang92/macOS-ThinkPad-T480s and realised 
   - Samsung 970 evo NVMe 1TB SSD
   - Dell DW1830 Wireless (original Intel AC8265 not working)
   - WQHD display
+  - HD Audio Realtek ALC3287
 
 ## Working at this point
 
@@ -28,15 +29,28 @@ I started with https://github.com/linusyang92/macOS-ThinkPad-T480s and realised 
 - probably many more that I do not know of yet ...
 
 ## List of kexts
-| kext  | version | short description | link |
-| ------------- | ------------- | ------------- | ------------- |
-| SMCBatteryManager  | 1.0 | - |  |
-| SMCProcessor  | 1.0.7 | - |  |
-| SMCSuperIO  | 1.0.4 | - |  |
-| SystemProfilerMemoryFixup  | 1.0.0 | Show memory tab on MacBook models with soldered RAM | https://github.com/Goldfish64/SystemProfilerMemoryFixup |
-| USBInjectAll  | 0.7.1 | - | https://bitbucket.org/RehabMan/os-x-usb-inject-all/downloads/ |
-| VirtualSMC  | 1.0.7 | Advanced SMC emulation | https://github.com/acidanthera/VirtualSMC/releases |
-| WhateverGreen  | 1.3.0 | Various patches necessary for GPUs | https://github.com/acidanthera/WhateverGreen/releases |
+| kext  | version | short description |
+| ------------- | ------------- | ------------- |
+| [AirportBrcmFixup](https://github.com/acidanthera/AirportBrcmFixup) | 1.1.9 | Various patches for Broadcom Airport Wi-Fi cards |
+| [AppleALC](https://github.com/acidanthera/AppleALC) | 1.3.9 | Native macOS HD audio for not officially supported codecs |
+| [ApplePS2SmartTouchPad](https://github.com/linusyang92/macOS-ThinkPad-T480s) | 4.6.8 | Touchpad support |
+| [BrcmBluetoothInjector] | 2.2.10 | - |
+| [BrcmFirmwareData] | 2.2.10 | - |
+| [BrcmPatchRAM2] | 2.2.10 | - |
+| [BT4LEContinuityFixup](https://github.com/acidanthera/BT4LEContinuityFixup) | 1.1.4 | Enable BT4LE-Handoff-Hotspot features |
+| [CodecCommander] | 2.7.1 | - |
+| [HibernationFixup](https://github.com/acidanthera/HibernationFixup) | 1.2.6 | Enable 3 & 25 mode hibernation on certain hardware |
+| [Lilu] | 1.3.8 | - |
+| [NightShiftUnlocker]( https://github.com/Austere-J/NightShiftUnlocker) | 2.2.1 | Enables Night Shift on all the models |
+| [NoTouchID]( https://github.com/al3xtjames/NoTouchID) | 1.0.2 | Disables Touch ID checks causing hangs |
+| [RealtekRTL8111] | 2.2.2 | - |
+| [SMCBatteryManager] | 1.0 | - |
+| [SMCProcessor] | 1.0.7 | - |
+| [SMCSuperIO] | 1.0.4 | - |
+| [SystemProfilerMemoryFixup]( https://github.com/Goldfish64/SystemProfilerMemoryFixup) | 1.0.0 | Show memory tab on MacBook models with soldered RAM |
+| [USBInjectAll]( https://bitbucket.org/RehabMan/os-x-usb-inject-all/downloads/) | 0.7.1 | - |
+| [VirtualSMC]( https://github.com/acidanthera/VirtualSMC/releases) | 1.0.7 | Advanced SMC emulation |
+| [WhateverGreen]( https://github.com/acidanthera/WhateverGreen/releases) | 1.3.0 | Various patches necessary for GPUs |
 
 ## Related posts
 - https://www.hackintosh-forum.de/forum/thread/43618-lenovo-t480s/?postID=518225#post518225
