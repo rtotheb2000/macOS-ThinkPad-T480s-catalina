@@ -20,6 +20,7 @@ I started with https://github.com/linusyang92/macOS-ThinkPad-T480s and realised 
 - Bluetooth (Dell DW1830)
 - Ethernet (wired)
 - Sound
+- Fix for the trackpad pref https://kaykun.net/hf/Trackpad.zip (credit @KayKun from hackintosh-forum.de)
 - By plugging in an Apple Trackpad 2 via USB I was able to get into the trackpad preference menu (even after unplugging it afterwards). This is only a temporary fix as it is reverted after a restart.
 
 ## Issues
