@@ -3,6 +3,8 @@
 This repository is a working progress of the clover folder used to install catalina beta on a Lenovo ThinkPad T480s.
 I started with https://github.com/linusyang92/macOS-ThinkPad-T480s and realised that an update to catalina beta results in a kernel panic. After some testing I found that the VirtualSMC.kext prevents the installation. So this clover folder excludes this file.
 
+I AM RUNNING BETA 5 ATM. BLUETOOTH DOES NOT CONNECT BUT THE ISSUE DOES ALSO APPEAR ON MY MACBOOK AIR SO IT IS NOT SPECIFIC TO HACKINTOSH. IF YOU ARE DEPENDENT ON BLUETOOTH, STAY WITH BETA 4.
+
 ## Used Hardware Configuration
 
 - Lenovo ThinkPad T480s (20L8S02D00)
