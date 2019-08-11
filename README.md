@@ -27,7 +27,6 @@ I AM RUNNING BETA 5 ATM. BLUETOOTH DOES NOT CONNECT BUT THE ISSUE ALSO APPEARS O
 
 ## Issues
 
-- Plugging in an external display via USB-C results in reboot (might be fixed, not yet tested ...)
 - Trackpad pref can not be accessed in system Preferences ("Could not load Trackpad preference pane.")
 - probably many more that I do not know of yet ...
 
