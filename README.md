@@ -1,5 +1,11 @@
 # macOS catalina beta on Lenovo ThinkPad T480s
 
+## Important Information
+
+I will no longer maintain this repository because I switched to a X1 YOGA 7th generation.
+
+## General Information
+
 This repository is a working progress of the clover folder used to install catalina beta on a Lenovo ThinkPad T480s.
 I started with https://github.com/linusyang92/macOS-ThinkPad-T480s and realised that an update to catalina beta results in a kernel panic. After some testing I found that the VirtualSMC.kext prevents the installation. So this clover folder excludes this file.
 
