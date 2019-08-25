@@ -2,7 +2,7 @@
 
 ## Important Information
 
-I will no longer maintain this repository because I switched to a x1 yoga 4th generation.
+I will no longer maintain this repository because I switched to a Lenovo Thinkpad x1 yoga 4th generation.
 
 ## General Information
 
