@@ -2,7 +2,7 @@
 
 ## Important Information
 
-I will no longer maintain this repository because I switched to a X1 YOGA 7th generation.
+I will no longer maintain this repository because I switched to a x1 yoga 7th generation.
 
 ## General Information
 
